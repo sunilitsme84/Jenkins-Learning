@@ -1,1 +1,1 @@
-echo "Deploy Job : Triggered $(date +"%D %T")"
+echo "Third Job: Deploy Job : Triggered :$(date +"%D %T")"
